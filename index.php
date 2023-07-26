@@ -45,7 +45,7 @@
                     <div class="col-lg-12 clearfix">
                         <!--Start logo-->
                         <div class="logo pull-left">
-                            <a href="index.html">
+                            <a href="index.php">
                                 <img src="images/resources/logo-h4.png" alt="Awesome Logo">
                             </a>
                         </div>
@@ -62,28 +62,20 @@
                             </div>
                             <div class="navbar-collapse collapse clearfix">
                                 <ul class="navigation clearfix">
-                                    <li class="current"><a href="index-2.html">Home</a></li>
+                                    <li class="current"><a href="index.php">Home</a></li>
                                     <li class="dropdown"><a href="#">Event</a>
                                         <ul>
-                                            <li><a href="propostal.html">Event Propostal</a></li>
-                                            <li><a href="gallery.html">Our Gallery</a></li>
+                                            <li><a href="event.php">Event Proposal</a></li>
+                                            <li><a href="gallery.php">Our Gallery</a></li>
 
                                         </ul>
                                     </li>
 
-                                    <li class="dropdown"><a href="schedules.html">Schedules</a>
-                                        <ul>
-                                            <li><a href="schedules.html">Schedule Grid view</a></li>
-                                            <li><a href="schedule-list.html">Schedule List view</a></li>
-                                            <li><a href="schedule-tab.html">Schedule Tabs</a></li>
-                                            <li><a href="schedule-single.html">Single Schedule</a></li>
-                                        </ul>
-                                    </li>
-
-                                    <li><a href="login.html">Login</a>
+                                    <li><a href="login.php">Login</a>
 
                                     </li>
-                                    <li><a href="register.html">Sign Up</a></li>
+                                    <li><a href="services.php">Services</a></li>
+                                    <li><a href="register.php">Sign Up</a></li>
                                 </ul>
                             </div>
                         </nav>
@@ -111,7 +103,7 @@
 
                             <img alt="" class="rev-slidebg" data-bgfit="cover" data-bgparallax="10"
                                 data-bgposition="center center" data-bgrepeat="no-repeat" data-no-retina=""
-                                src="https://www.mon-evenement.net/wp-content/uploads/2017/05/conference.jpg">
+                                src="images/about/font2.jpg">
 
                             <div class="tp-caption" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
                                 data-paddingright="[0,0,0,0]" data-paddingtop="[0,0,0,0]" data-responsive_offset="on"
@@ -162,14 +154,7 @@
                                 data-textalign="['top','top','top','top']"
                                 data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Power3.easeInOut"}]'
                                 style="z-index: 7; white-space: nowrap;text-transform:left;">
-                                <div class="slide-content text-center">
-                                    <div class="btns-box">
-                                        <a href="#" class="thm-btn btn-style-two"><span
-                                                class="fa fa-arrow-circle-right"></span>&ensp;Read More</a> &ensp;
-                                        <a href="#" class="thm-btn btn-style-one"><span
-                                                class="fa fa-arrow-circle-right"></span>&ensp;Buy ticket</a>
-                                    </div>
-                                </div>
+                               
                             </div>
                         </li>
 
@@ -240,14 +225,6 @@
                                 data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Power3.easeInOut"}]'
                                 style="z-index: 7; white-space: nowrap;text-transform:left;">
 
-                                <div class="slide-content text-center">
-                                    <div class="btns-box">
-                                        <a href="#" class="thm-btn btn-style-two"><span
-                                                class="fa fa-arrow-circle-right"></span>&ensp;Read More</a> &ensp;
-                                        <a href="#" class="thm-btn btn-style-one"><span
-                                                class="fa fa-arrow-circle-right"></span>&ensp;Buy ticket</a>
-                                    </div>
-                                </div>
 
                             </div>
                         </li>

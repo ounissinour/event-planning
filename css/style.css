@@ -3864,6 +3864,7 @@ select:focus {
 }
 .contact-area .contact-form form input[type="text"],
 .contact-area .contact-form form input[type="email"],
+.contact-area .contact-form form input[type="password"],
 .contact-area .contact-form form textarea{
     border: 1px solid #e0edf4;
     color: #999999;
@@ -3882,7 +3883,8 @@ select:focus {
 .contact-area .contact-form form input[type="text"]:focus{
     border-color: #f18505;        
 }
-.contact-area .contact-form form input[type="email"]:focus{
+.contact-area .contact-form form input[type="email"]:focus,
+.contact-area .contact-form form input[type="password"]:focus{
     border-color: #f18505;        
 }
 .contact-area .contact-form form textarea:focus{

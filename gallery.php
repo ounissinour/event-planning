@@ -40,7 +40,7 @@
             <div class="col-lg-12 clearfix">
                 <!--Start logo-->
                 <div class="logo pull-left">
-                    <a href="index-2.html">
+                    <a href="index.php">
                         <img src="images/resources/logo-h4.png" alt="Awesome Logo">
                     </a>
                 </div>
@@ -56,17 +56,18 @@
                     </div>
                     <div class="navbar-collapse collapse clearfix">
                         <ul class="navigation clearfix">
-                            <li><a href="index-2.html">Home</a></li>
+                            <li><a href="index.php">Home</a></li>
                             <li class="dropdown current"><a href="#">Event</a>
                                 <ul>
-                                    <li><a href="event.html">Event Propostal</a></li>
-                                    <li><a href="gallery.html">Our Gallery</a></li>
+                                    <li><a href="event.php">Event Proposal</a></li>
+                                    <li><a href="gallery.php">Our Gallery</a></li>
                                     
                                 </ul>
                             </li>
                            
-                            <li><a href="login.html">Login</a></li>
-                            <li><a href="register.html">Sign Up</a></li>
+                            <li><a href="login.php">Login</a></li>
+                            <li><a href="services.php">Services</a></li>
+                            <li><a href="register.php">Sign Up</a></li>
                         </ul>
                     </div>
                 </nav>
@@ -100,7 +101,7 @@
                 <div class="breadcrumb-bottom">
                     <div class="left pull-left">
                         <ul>
-                            <li><a href="index-2.html">Home</a></li>
+                            <li><a href="index.php">Home</a></li>
                             <li><i class="fa fa-angle-right" aria-hidden="true"></i></li>
                             <li class="active">Gallery</li>
                         </ul>
@@ -132,7 +133,7 @@
                                     <i class="fa fa-search" aria-hidden="true"></i>
                                 </a>
                                 <div class="bottom">
-                                    <a class="title" href="gallery-single.html">Conversion With Speaker</a>
+                                    <a class="title" href="gallery-single.php">Conversion With Speaker</a>
                                 </div>
                             </div>
                         </div>
@@ -151,7 +152,7 @@
                                     <i class="fa fa-search" aria-hidden="true"></i>
                                 </a>
                                 <div class="bottom">
-                                    <a class="title" href="gallery-single.html">Conversion With Speaker</a>
+                                    <a class="title" href="gallery-single.php">Conversion With Speaker</a>
                                 </div>
                             </div>
                         </div>
@@ -170,7 +171,7 @@
                                     <i class="fa fa-search" aria-hidden="true"></i>
                                 </a>
                                 <div class="bottom">
-                                    <a class="title" href="gallery-single.html">Conversion With Speaker</a>
+                                    <a class="title" href="gallery-single.php">Conversion With Speaker</a>
                                 </div>
                             </div>
                         </div>
@@ -185,11 +186,11 @@
                     <div class="overlay-style-one">
                         <div class="box">
                             <div class="content">
-                                <a class="zoom" href="images/projects/im6.html" data-rel="prettyPhoto" title="Evento Gallery">
+                                <a class="zoom" href="images/projects/im6.php" data-rel="prettyPhoto" title="Evento Gallery">
                                     <i class="fa fa-search" aria-hidden="true"></i>
                                 </a>
                                 <div class="bottom">
-                                    <a class="title" href="gallery-single.html">Conversion With Speaker</a>
+                                    <a class="title" href="gallery-single.php">Conversion With Speaker</a>
                                 </div>
                             </div>
                         </div>
@@ -208,7 +209,7 @@
                                     <i class="fa fa-search" aria-hidden="true"></i>
                                 </a>
                                 <div class="bottom">
-                                    <a class="title" href="gallery-single.html">Conversion With Speaker</a>
+                                    <a class="title" href="gallery-single.php">Conversion With Speaker</a>
                                 </div>
                             </div>
                         </div>
@@ -227,7 +228,7 @@
                                     <i class="fa fa-search" aria-hidden="true"></i>
                                 </a>
                                 <div class="bottom">
-                                    <a class="title" href="gallery-single.html">Conversion With Speaker</a>
+                                    <a class="title" href="gallery-single.php">Conversion With Speaker</a>
                                 </div>
                             </div>
                         </div>
@@ -246,7 +247,7 @@
                                     <i class="fa fa-search" aria-hidden="true"></i>
                                 </a>
                                 <div class="bottom">
-                                    <a class="title" href="gallery-single.html">Conversion With Speaker</a>
+                                    <a class="title" href="gallery-single.php">Conversion With Speaker</a>
                                 </div>
                             </div>
                         </div>
@@ -265,7 +266,7 @@
                                     <i class="fa fa-search" aria-hidden="true"></i>
                                 </a>
                                 <div class="bottom">
-                                    <a class="title" href="gallery-single.html">Conversion With Speaker</a>
+                                    <a class="title" href="gallery-single.php">Conversion With Speaker</a>
                                 </div>
                             </div>
                         </div>
@@ -284,7 +285,7 @@
                                     <i class="fa fa-search" aria-hidden="true"></i>
                                 </a>
                                 <div class="bottom">
-                                    <a class="title" href="gallery-single.html">Conversion With Speaker</a>
+                                    <a class="title" href="gallery-single.php">Conversion With Speaker</a>
                                 </div>
                             </div>
                         </div>
